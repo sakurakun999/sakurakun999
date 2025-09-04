@@ -2,10 +2,10 @@
     🌸 Welcome / ようこそ
 ========================= -->
 <div align="center">
-  <h1>🌸 My Space / 私のページへようこそ</h1>
+  <h1>🌸 Sakurakun999</h1>
   <p>
     <strong>@sakurakun999</strong> — Simple tools, modern systems, and clean UIs.<br />
-    シンプルなツール、モダンな実装、クリーンなUIが好きな高校生エンジニアです。
+    シンプルなツール、モダンな実装、クリーンなUIが好きな学生エンジニアです。
   </p>
 </div>
 
@@ -14,7 +14,7 @@
 ## 👋 About Me / 自己紹介
 - JavaScript と React に関心があり、読みやすく実用的なコードを書いています。  
 - UI/UX は「誰でも迷わない・見やすい」を大切にしています。  
-- R を統計で利用、可視化はシンプルさを意識。  
+- R を統計学で利用中、可視化はシンプルさを意識。  
 - Interested in JavaScript and React; write practical, readable code.  
 - Value “easy-to-understand for anyone” in UI/UX.  
 - Use R for statistics with simple, clear visualizations.
