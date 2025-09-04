@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=300&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+About+Me+%2F+%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=400&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+About+Me+%2F+%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" alt="About Me" />
 </div>
 
 <table>
@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=F7931E&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%93%8A+Stats+%2F+%E7%B5%B1%E8%A8%88&repeat=false" alt="Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=400&color=F7931E&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%93%8A+Stats+%2F+%E7%B5%B1%E8%A8%88" alt="Stats" />
 </div>
 
 <!-- GitHub Stats with enhanced styling -->
@@ -85,7 +85,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9B%A0+Tech+Stack+%2F+%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF&repeat=false" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=400&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9B%A0+Tech+Stack+%2F+%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF" alt="Tech Stack" />
 </div>
 
 <!-- Skill Icons with enhanced styling -->
@@ -110,7 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8E%AF+Focus+%2F+%E6%9C%80%E8%BF%91%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9&repeat=false" alt="Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=400&color=10B981&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8E%AF+Focus+%2F+%E6%9C%80%E8%BF%91%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9" alt="Focus" />
 </div>
 
 <table align="center" style="width: 80%; margin: 0 auto;">
@@ -131,7 +131,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=400&height=50&lines=%E2%9C%A8+Motto+%2F+%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8&repeat=false" alt="Motto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=400&color=EC4899&center=true&vCenter=true&width=400&height=50&lines=%E2%9C%A8+Motto+%2F+%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8" alt="Motto" />
 </div>
 
 <div align="center">
@@ -150,7 +150,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%93%AC+Connect+%2F+%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88&repeat=false" alt="Connect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=400&color=06B6D4&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%93%AC+Connect+%2F+%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88" alt="Connect" />
 </div>
 
 <div align="center">
