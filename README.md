@@ -31,13 +31,13 @@
   <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile-details" width="100%" />
 
   <!-- 2行目（2枚・等幅） -->
-  <div style="display:flex; gap:8px; justify-content:center; align-items:stretch; margin-top:8px;">
+  <div style="display:flex; gap:16px; justify-content:center; align-items:stretch; margin-top:8px;">
     <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos-per-language" style="width:48%; min-width:280px;"/>
     <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most-commit-language" style="width:48%; min-width:280px;"/>
   </div>
 
   <!-- 3行目（2枚・等幅） -->
-  <div style="display:flex; gap:8px; justify-content:center; align-items:stretch; margin-top:8px;">
+  <div style="display:flex; gap:16px; justify-content:center; align-items:stretch; margin-top:8px;">
     <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" style="width:48%; min-width:280px;"/>
     <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive-time" style="width:48%; min-width:280px;"/>
   </div>
