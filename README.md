@@ -22,36 +22,33 @@
 ---
 
 ## 📊 Stats / 統計
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sakurakun999&show_icons=true&rank_icon=github&theme=transparent"
-  alt="GitHub Stats"
-/>
+<!-- GitHub Stats -->## Stats
+<div align="center">
 
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakun999&layout=compact&theme=transparent"
-  alt="Top Languages"
-/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakurakun999&theme=gruvbox" alt="profile-details" />
 
-<!-- Streak -->
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sakurakun999&theme=transparent"
-  alt="GitHub Streak"
-/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakurakun999&theme=gruvbox" alt="repos-per-language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakurakun999&theme=gruvbox" alt="most-commit-language" />
 
-<!-- Trophy (minimal, collapsible) -->
-<details>
-  <summary>🏆 Trophies / トロフィー</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=sakurakun999&theme=onedark&margin-w=6&margin-h=6" alt="Trophies"/>
-</details>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakurakun999&theme=gruvbox" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakurakun999&theme=gruvbox&utcOffset=9" alt="productive-time" />
+
+</div>
+
+## Trophy
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=sakurakun999&theme=gruvbox&margin-w=8&margin-h=8" alt="trophy" />
+
+</div>
+
 
 ---
 
 ## 🛠 Tech Stack / 技術スタック
 <!-- Skill Icons (simple, unified height) -->
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,r&perline=10" alt="skills" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,r,cloudflare,github,python,ruby&perline=10" alt="skills" />
 </p>
 
 <!-- Optional Shields (compact & flat) -->
@@ -61,6 +58,11 @@
   <img src="https://img.shields.io/badge/HTML5-Semantic-20232a?logo=html5&logoColor=E34F26&style=flat" />
   <img src="https://img.shields.io/badge/CSS3-Modern%20Layout-20232a?logo=css3&logoColor=1572B6&style=flat" />
   <img src="https://img.shields.io/badge/R-Statistics-20232a?logo=r&logoColor=75AADB&style=flat" />
+<img src="https://img.shields.io/badge/Cloudflare-Edge%20&%20CDN-000000?logo=cloudflare&logoColor=F38020&style=flat" />
+<img src="https://img.shields.io/badge/GitHub-Platform-181717?logo=github&logoColor=FFFFFF&style=flat" />
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=FFFFFF&style=flat" />
+<img src="https://img.shields.io/badge/Ruby-3.x-CC342D?logo=ruby&logoColor=FFFFFF&style=flat" />
+
 </p>
 
 ---
