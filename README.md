@@ -10,9 +10,7 @@
     Sakurakun999と申します。学生エンジニアです。
   </p>
   
-  <!-- プロフィール表示カウンター -->
-  <img src="https://komarev.com/ghpvc/?username=sakurakun999&style=for-the-badge&color=ff69b4" alt="Profile Views" />
-</div>
+
 
 <!-- 装飾的な区切り線 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -166,10 +164,6 @@
 
 <br/>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/sakurakun999/sakurakun999/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
 
 <!-- Footer -->
 <div align="center">
