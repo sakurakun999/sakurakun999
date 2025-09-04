@@ -2,9 +2,9 @@
     🌸 Welcome / ようこそ
 ========================= -->
 <div align="center">
-  <h1>🌸 Sakurakun999</h1>
+  <h1>🌸 こんにちは、Hello,Bonjour,Привет</h1>
   <p>
-    <strong>@sakurakun999</strong>I'm a Student Engineer.<br />
+    <strong>@sakurakun999</strong> I'm a Student Engineer.<br />
     Sakurakun999と申します。学生エンジニアです。
   </p>
 </div>
@@ -24,23 +24,31 @@
 ---
 
 ## 📊 Stats / 統計
-<!-- GitHub Stats -->## Stats
+<!-- GitHub Stats -->## Stats## Stats
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakurakun999&theme=tokyonight" alt="profile-details" />
+  <!-- 1行目（1枚・等幅） -->
+  <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile-details" width="100%" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakurakun999&theme=nord_dark" alt="repos-per-language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakurakun999&theme=nord_dark" alt="most-commit-language" />
+  <!-- 2行目（2枚・等幅） -->
+  <div style="display:flex; gap:8px; justify-content:center; align-items:stretch; margin-top:8px;">
+    <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos-per-language" style="width:48%; min-width:280px;"/>
+    <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most-commit-language" style="width:48%; min-width:280px;"/>
+  </div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakurakun999&theme=nord_dark" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakurakun999&theme=nord_dark&utcOffset=9" alt="productive-time" />
+  <!-- 3行目（2枚・等幅） -->
+  <div style="display:flex; gap:8px; justify-content:center; align-items:stretch; margin-top:8px;">
+    <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" style="width:48%; min-width:280px;"/>
+    <img src="https://raw.githubusercontent.com/sakurakun999/sakurakun999/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive-time" style="width:48%; min-width:280px;"/>
+  </div>
 
 </div>
+
 
 ## Trophy
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=sakurakun999&theme=nord_dark&margin-w=8&margin-h=8" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sakurakun999&theme=tokyonight&margin-w=8&margin-h=8" alt="trophy" />
 
 </div>
 
