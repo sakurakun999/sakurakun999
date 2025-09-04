@@ -1,0 +1,27 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # 24時間に1回
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # 発行したPATをSecretに保存した名前に合わせる
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"      # 生成物をpushするブランチ（任意、既定: main）
+          UTC_OFFSET: 9            # JST表示なら 9
+          EXCLUDE: ""              # 言語除外があればカンマ区切り
+          AUTO_PUSH: true          # 自動コミットを有効化
+          THEME: "tokyonight"
