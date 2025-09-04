@@ -28,9 +28,9 @@
 <!-- GitHub Stats -->## Stats
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakurakun999&theme=transparent" alt="profile-details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakurakun999&theme=dracula" alt="profile-details" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakurakun999&theme=transparent" alt="repos-per-language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakurakun999&theme=nord_dark" alt="repos-per-language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakurakun999&theme=transparent" alt="most-commit-language" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakurakun999&theme=transparent" alt="stats" />
