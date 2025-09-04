@@ -16,7 +16,6 @@
 - UI/UX は「誰でも迷わない・見やすい」を大切にしています。  
 - R を統計学で利用中、可視化はシンプルさを意識。
 - 他にもさまざまな言語を学習中。
-  
 - Interested in JavaScript and React; write practical, readable code.  
 - Value “easy-to-understand for anyone” in UI/UX.  
 - Use R for statistics with simple, clear visualizations.
@@ -28,7 +27,7 @@
 <!-- GitHub Stats -->## Stats
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakurakun999&theme=nord_dark" alt="profile-details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakurakun999&theme=tokyonight" alt="profile-details" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakurakun999&theme=nord_dark" alt="repos-per-language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakurakun999&theme=nord_dark" alt="most-commit-language" />
