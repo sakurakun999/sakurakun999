@@ -3,16 +3,12 @@
 ========================= -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%8C%B8+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Hello%2CBonjour%2C%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82&weight=700" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=800&color=FF69B4&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%8C%B8+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Hello%2CBonjour%2C%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82&weight=700" alt="Typing SVG" />
   </h1>
   <p>
     <strong>@sakurakun999</strong> I'm a Student Engineer.<br />
     Sakurakun999と申します。学生エンジニアです。
   </p>
-  
-  <!-- プロフィール表示カウンター -->
-  <img src="https://komarev.com/ghpvc/?username=sakurakun999&style=for-the-badge&color=ff69b4" alt="Profile Views" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -148,10 +144,6 @@
 
 <br/>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/sakurakun999/sakurakun999/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
 
 <!-- Footer -->
 <div align="center">
