@@ -24,4 +24,4 @@ jobs:
           UTC_OFFSET: 9            # JST表示なら 9
           EXCLUDE: ""              # 言語除外があればカンマ区切り
           AUTO_PUSH: true          # 自動コミットを有効化
-          THEME: "tokyonight"
+          THEME: tokyonight
