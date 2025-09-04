@@ -3,7 +3,7 @@
 ========================= -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%8C%B8+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Hello%2CBonjour%2C%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%8C%B8+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Hello%2CBonjour%2C%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82&weight=700" alt="Typing SVG" />
   </h1>
   <p>
     <strong>@sakurakun999</strong> I'm a Student Engineer.<br />
@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+About+Me+%2F+%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+About+Me+%2F+%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B&repeat=false" alt="About Me" />
 </div>
 
 <table>
@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7931E&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%93%8A+Stats+%2F+%E7%B5%B1%E8%A8%88" alt="Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=F7931E&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%93%8A+Stats+%2F+%E7%B5%B1%E8%A8%88&repeat=false" alt="Stats" />
 </div>
 
 <!-- GitHub Stats with enhanced styling -->
@@ -87,7 +87,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9B%A0+Tech+Stack+%2F+%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9B%A0+Tech+Stack+%2F+%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF&repeat=false" alt="Tech Stack" />
 </div>
 
 <!-- Skill Icons with enhanced styling -->
@@ -112,25 +112,16 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8E%AF+Focus+%2F+%E6%9C%80%E8%BF%91%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9" alt="Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8E%AF+Focus+%2F+%E6%9C%80%E8%BF%91%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9&repeat=false" alt="Focus" />
 </div>
 
-<table align="center">
+<table align="center" style="width: 80%; margin: 0 auto;">
 <tr>
-<td valign="top" width="50%">
+<td style="padding: 30px; vertical-align: top; width: 50%;">
 
-### 🎨 日本語 / Japanese
 - 誰でも見やすいUI作り / Designing UIs that are easy for anyone  
 - モダンで再現性の高い環境整備 / Modern, reproducible environments  
-- コードを <strong>実用的</strong> かつ <strong>見やすい</strong> ものに保つ / Keeping code <strong>practical</strong> and <strong>readable</strong>  
-
-</td>
-<td valign="top" width="50%">
-
-### 🌟 English
-- Designing UIs that are easy for anyone  
-- Modern, reproducible environments  
-- Keeping code <strong>practical</strong> and <strong>readable</strong>  
+- コードを <strong>実用的</strong> かつ <strong>見やすい</strong> ものに保つ / Keeping code <strong>practical</strong> and <strong>readable</strong>
 
 </td>
 </tr>
@@ -142,7 +133,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=EC4899&center=true&vCenter=true&width=400&height=50&lines=%E2%9C%A8+Motto+%2F+%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8" alt="Motto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=400&height=50&lines=%E2%9C%A8+Motto+%2F+%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8&repeat=false" alt="Motto" />
 </div>
 
 <div align="center">
@@ -152,7 +143,7 @@
 </div>
 
 > <div align="center">
-> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%81%AF%E3%83%AA%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%81%8B%E3%82%89%E3%80%82%E3%83%AA%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%81%AE%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8%E3%80%82%E3%80%8D;%22Ideas+begin+with+respect%E2%80%94and+go+beyond.%22" alt="Motto" />
+> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%81%AF%E3%83%AA%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%81%8B%E3%82%89%E3%80%82%E3%83%AA%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%81%AE%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8%E3%80%82%E3%80%8D;%22Ideas+begin+with+respect%E2%80%94and+go+beyond.%22&repeat=false" alt="Motto" />
 > </div>
 
 <!-- 装飾的な区切り線 -->
@@ -161,7 +152,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%93%AC+Connect+%2F+%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88" alt="Connect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%93%AC+Connect+%2F+%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88&repeat=false" alt="Connect" />
 </div>
 
 <div align="center">
